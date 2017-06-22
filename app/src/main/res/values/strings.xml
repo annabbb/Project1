@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlayMe</string>
+    <string name="topText">FreelanceEngine</string>
+    <string name="middleText">Forgot your password?</string>
+    <string name="bottomText">New? Be member here</string>
+</resources>
